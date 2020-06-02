@@ -2,7 +2,7 @@
 This project was completed as preparation for my summer 2020 data engineering internship at Genentech. Completing this jupyter notebook was a way of practicing with python and pyteomics, and introducing myself to mass-spectrometry analysis.
 
 The notebook uses python & pyteomics to: <br>
-1.find and open/read a thermo-fisher .raw 'peptide map' data file <br>
+1. find and open/read a thermo-fisher .raw 'peptide map' data file <br>
 2. read in a fasta file with one protein sequence <br>
 3. 'digest' the sequence with trypsin <br>
 4. calculate the masses of tryptic peptides <br>
